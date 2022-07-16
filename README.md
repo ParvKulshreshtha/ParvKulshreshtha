@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParvKulshreshtha
 - 👀 I’m front-end developer
-- 🌱 I’m currently learning React
+- 🌱 I use React
 - 📫 How to reach me https://www.linkedin.com/in/parv-kulshreshtha-888862176/
 
 <!---
