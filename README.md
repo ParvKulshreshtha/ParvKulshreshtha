@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🤝 Hi, I’m @ParvKulshreshtha<br>🔭I’m a front-end developer<br>🌱 I’m currently perfecting my React skills<br>👯 I’m looking for an opportunity<br>💬 Reach to me at https://www.linkedin.com/in/parv-kulshreshtha-888862176/
+🤝 Hi, I’m @ParvKulshreshtha<br>🔭I’m a front-end developer<br>🌱 I’m currently perfecting my React skills<br>👯 I’m looking for an opportunity<br>
 
 
 ## 🌐 Socials:
